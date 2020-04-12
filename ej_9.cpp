@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : ej_9.cpp
-// Author      : 
+// Author      : Dolores Gonzalez
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : 
 //============================================================================
 
 #include <iostream>
