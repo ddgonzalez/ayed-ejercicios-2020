@@ -1,0 +1,41 @@
+#include <iostream>
+#include <stdlib.h>
+using namespace std;
+//Dados dos enteros, informar su producto calculándolo mediantes sumas sucesivas.
+//Considerar que los valores ingresados serán números positivos o cero.
+//Considerar que los valores ingresados también podrían ser negativos
+int main() {
+
+       int a, b, suma = 0;
+       int contador = 1;
+
+       //Pide y lee los numeros
+       cout << "Digite un numero entero: "; cin >> a;
+       cout << "Digite un numero entero: "; cin >> b;
+
+       if(b<0){
+          int b2;
+          b2=abs(b);
+          while (contador <= b2){
+             suma +=a;
+             contador++;
+          }
+       }
+       else{
+          while ( contador <= b) //Mientras que contador sea menor o igual que b
+                 {
+                     suma += a; //suma = suma + numero
+                     contador++; //Postincrementa contador
+                 } //Fin de while
+       }
+
+
+
+
+       cout << "\nEl producto calculado mediante sumas sucesivas es: " << suma << endl; //Imprime el resultado
+
+
+
+
+	return 0;
+}
