@@ -13,15 +13,15 @@ using namespace std;
 
 int main() {
 
-   cout << "Ingrese la fecha de hoy (primero el día, luego el mes, luego el año)" << endl;
+   cout << "Ingrese la fecha de hoy (primero el dÃ­a, luego el mes, luego el aÃ±o)" << endl;
    int diaHoy,mesHoy,anioHoy;
    cin >> diaHoy >> mesHoy >> anioHoy;
 
-   cout << "Ingrese la fecha A (primero el día, luego el mes, luego el año)" << endl;
+   cout << "Ingrese la fecha A (primero el dÃ­a, luego el mes, luego el aÃ±o)" << endl;
    int diaA,mesA,anioA;
    cin >> diaA >> mesA >> anioA;
 
-   cout << "Ingrese la fecha B (primero el día, luego el mes, luego el año)" << endl;
+   cout << "Ingrese la fecha B (primero el dÃ­a, luego el mes, luego el aÃ±o)" << endl;
      int diaB,mesB,anioB;
      cin >> diaB >> mesB >> anioB;
 
@@ -442,10 +442,10 @@ int distanciaB = abs (diasTotalesHoy - diasTotalesB);
 
 
 if (distanciaA > distanciaB) {
-   cout << "La Fecha A es más lejana que la fecha B" << endl;
+   cout << "La Fecha A es mÃ¡s lejana que la fecha B" << endl;
 }
 else {
-   cout << "La fecha B es más lejana que la fecha A" << endl;
+   cout << "La fecha B es mÃ¡s lejana que la fecha A" << endl;
 }
 
 
