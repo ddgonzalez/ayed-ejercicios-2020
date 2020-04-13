@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 /*Dado un valor entero, informar su factorial.
-NOTA: El factorial de un número n (se indica n!) se calcula así: n * n-1 * n-2 * … * 3 *
+NOTA: El factorial de un nÃºmero n (se indica n!) se calcula asÃ­: n * n-1 * n-2 * â€¦ * 3 *
 2 * 1. El factorial de 0 es 1. Por ejemplo: 5! es: 120, 4! es: 24.
  */
 int main() {
