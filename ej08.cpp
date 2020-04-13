@@ -8,8 +8,8 @@
 
 #include <iostream>
 using namespace std;
-/*Dado un número de 8 dígitos que representa una fecha con formato aaaammdd, se
-pide mostrar por separado el día, el mes y el año de la fecha ingresada
+/*Dado un nÃºmero de 8 dÃ­gitos que representa una fecha con formato aaaammdd, se
+pide mostrar por separado el dÃ­a, el mes y el aÃ±o de la fecha ingresada
  */
 int main() {
    long fechaUnificada;
