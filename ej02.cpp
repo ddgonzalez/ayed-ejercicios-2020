@@ -10,7 +10,7 @@
 using namespace std;
 
 int main() {
-   /*Se ingresan por teclado dos valores numéricos enteros: a y b, se pide calcular e
+   /*Se ingresan por teclado dos valores numÃ©ricos enteros: a y b, se pide calcular e
    informar el cociente a/b, validando que b sea distinto de cero; en tal caso, mostrar
    un mensaje de error en la consola.
     *
