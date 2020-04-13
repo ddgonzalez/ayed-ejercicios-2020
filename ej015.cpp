@@ -8,7 +8,7 @@
 
 #include <iostream>
 using namespace std;
-/*  Dado un valor entero n, informar los primeros n números primos.
+/*  Dado un valor entero n, informar los primeros n nÃºmeros primos.
  * Por ejemplo: si n==6 entonces la salida debe ser: 1, 2, 3, 5, 7, 11.
  */
 int main() {
