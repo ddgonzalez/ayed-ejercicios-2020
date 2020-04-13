@@ -9,9 +9,9 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-//Dados dos enteros, informar su producto calcul·ndolo mediantes sumas sucesivas.
-//Considerar que los valores ingresados ser·n n˙meros positivos o cero.
-//Considerar que los valores ingresados tambiÈn podrÌan ser negativos
+//Dados dos enteros, informar su producto calcul√°ndolo mediantes sumas sucesivas.
+//Considerar que los valores ingresados ser√°n n√∫meros positivos o cero.
+//Considerar que los valores ingresados tambi√©n podr√≠an ser negativos
 int main() {
 
        int a, b, suma = 0;
