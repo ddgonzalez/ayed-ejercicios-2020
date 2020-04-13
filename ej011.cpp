@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
    int mes,anio;
-   cout<<"ingrese un año y luego un mes:"<<endl;
+   cout<<"ingrese un aÃ±o y luego un mes:"<<endl;
    cin>>anio>>mes;
 
    if(mes==1 or mes==3 or mes==5 or mes==7 or mes==8 or mes==10 or mes==12){
