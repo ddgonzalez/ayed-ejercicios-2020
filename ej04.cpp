@@ -8,8 +8,8 @@
 
 #include <iostream>
 using namespace std;
-/*Se ingresa por teclado dos valores numÈricos enteros, diferentes entre sÌ. informar
-cu·l es el mayor.
+/*Se ingresa por teclado dos valores num√©ricos enteros, diferentes entre s√≠. informar
+cu√°l es el mayor.
  */
 int main() {
 
