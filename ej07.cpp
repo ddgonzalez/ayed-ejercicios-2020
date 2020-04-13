@@ -8,9 +8,9 @@
 
 #include <iostream>
 using namespace std;
-/*Se ingresan tres valores que representan la longitud de los lados de un triángulo,
-informar cuál es el tipo del triángulo ingresado (isósceles, equilátero o escaleno).
- * isósceles, dos lados iguales. equilatero,tres lados iguales. 7
+/*Se ingresan tres valores que representan la longitud de los lados de un triÃ¡ngulo,
+informar cuÃ¡l es el tipo del triÃ¡ngulo ingresado (isÃ³sceles, equilÃ¡tero o escaleno).
+ * isÃ³sceles, dos lados iguales. equilatero,tres lados iguales. 7
  * escaleno,todos sus lados son desiguales.
  */
 
